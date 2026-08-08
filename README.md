@@ -1,4 +1,4 @@
-# Django Workflow Engine
+# Enterprise Workflow Automation System
 
 A production-ready **SaaS Workflow Automation Platform** built with **Django** and **Django REST Framework**. The platform enables users to create, manage, and execute automated workflows through configurable triggers and actions, following modern backend engineering practices.
 
