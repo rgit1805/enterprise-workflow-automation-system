@@ -6,5 +6,5 @@ from django.http import JsonResponse
 def health_check(request):
     return JsonResponse({
         "status": "ok",
-        "service":"Workflow-platfrom"
+        "service":"Workflow-platform"
     })
